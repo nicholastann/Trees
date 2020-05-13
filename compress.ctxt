@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=compress
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a
+comment2.target=void\ printarray(int[])
+comment3.params=a
+comment3.target=int[]\ compress(int[])
+numComments=4
